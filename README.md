@@ -5,3 +5,4 @@ A vanilla boilerplate for a front-end project
 - PostCSS
 - Icon fonts
 - webp
+- handlebars
