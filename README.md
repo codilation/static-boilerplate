@@ -17,4 +17,8 @@ Use this boilerplate for when you need to set up a basic web app with powerful C
 
 - PostCSS with the following plugins:
     - Autoprefixer
-    - TEST
+    - CSS partial import
+    - SCSS-like nesting
+    - [Automatic icon fonts](https://www.npmjs.com/package/iconfont-webpack-plugin) by using `font-url`
+- Handlebars for templates & partials
+- [BrowserSync](https://www.browsersync.io/)
