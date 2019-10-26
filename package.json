@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "vanilla boiler with webpack, postCSS & handlebars",
   "repository": "git@github.com:Codilation/vanilla-boiler.git",
-  "author": "Sebastian Opperman <sebastian@codilation.com>",
+  "author": "Sebastian Opperman <oppermansebastian@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "webpack --config=config/webpack.development.js",
