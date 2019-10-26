@@ -1,1 +1,1 @@
-# Vanilla Workflow
+# Static Boilerplate
