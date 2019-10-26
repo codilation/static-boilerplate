@@ -16,6 +16,7 @@ Use this boilerplate for when you need to set up a basic web app with powerful C
 ## What's in the box?
 
 - [Handlebars](https://handlebarsjs.com/)
+- Normalize
 - PostCSS with the following plugins:
     - Autoprefixer
     - CSS partial import
